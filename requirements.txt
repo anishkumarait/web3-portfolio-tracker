@@ -1,0 +1,5 @@
+flask 
+web3 
+requests 
+python-dotenv
+pycoingecko
