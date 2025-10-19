@@ -1,6 +1,6 @@
 # Web3 Portfolio Tracker
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) [![Flask](https://img.shields.io/badge/Flask-2.3-green)]
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) ![Flask](https://img.shields.io/badge/Flask-2.3-green)]
 
 A **Web3 Portfolio Tracker** built with Python, Flask, Web3.py, and CoinGecko API. Monitor your Ethereum wallet balance, track ETH value across multiple fiat currencies, and visualize real-time 24-hour price trends on an interactive dashboard.  
 
