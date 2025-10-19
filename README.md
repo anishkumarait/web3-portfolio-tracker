@@ -19,7 +19,6 @@ A **Web3 Portfolio Tracker** built with Python, Flask, Web3.py, and CoinGecko AP
 ## 🖥️ Demo
 
 ![Web3 Portfolio Tracker Preview](https://raw.githubusercontent.com/anishkumarait/web3-portfolio-tracker/main/demo.png)  
-*Replace with your own screenshot or GIF*
 
 ---
 
